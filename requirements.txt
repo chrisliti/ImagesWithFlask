@@ -1,6 +1,6 @@
-Werkzeug==2.0.1
-tensorflow>=2.0.0
-Flask==2.0.1
-numpy==1.21.2
-Pillow==8.3.1
-gunicorn>=19.9.0
+Werkzeug
+tensorflow>
+Flask
+numpy
+Pillow
+gunicorn
