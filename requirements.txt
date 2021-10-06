@@ -1,5 +1,5 @@
 Werkzeug
-tensorflow>
+tensorflow
 Flask
 numpy
 Pillow
